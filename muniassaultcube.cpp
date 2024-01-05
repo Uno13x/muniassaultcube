@@ -7,7 +7,7 @@ using namespace std;
 
 
 // Variavel da bala
-DWORD_PTR muni = 0x084F530;
+DWORD_PTR muni = ALTERE_PELA_SUA_OFFSET;
 
 // Ler e ver valor da bala
 int value = 30;
