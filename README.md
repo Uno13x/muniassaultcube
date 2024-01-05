@@ -1,12 +1,19 @@
 # muniassaultcube
 hack simples pro jogo assaultcube feito em C++
 
-1 Baixe o arquivo e entre no código
 
-2 procure a frase ALTERE_PELA_SUA_OFFSET e altere pela sua variavel de bala, se não souber baixe o cheat enginer e veja.
+1 Baixe o arquivo e salve-o em seu computador. Abra o código no Visual Studio (ou em outro ambiente de desenvolvimento) e siga estas etapas:
 
-3 depois compile abra o assaultcube e abra o exe do arquivo e selecione o valor da bala que vc quer receber
 
-4 para receber a bala clique F1 clique quantas vezes quiser
+2 Encontre a parte do código onde está escrito "ALTERE_PELA_SUA_OFFSET" e substitua isso pelo valor específico que você deseja para a munição. Se não estiver familiarizado com o código, é recomendável baixar o Cheat Engine e seguir as instruções para encontrar a variável correta.
 
-enjoy:)
+
+3 Abra o jogo AssaultCube e localize a caixa de diálogo que permite ajustar a quantidade de munição.
+
+
+4 Durante a execução do cheat, você será solicitado a inserir a quantidade desejada de munição. Após inserir o valor, o cheat cuidará automaticamente de transferir essas balas para a memória do jogo.
+
+
+5 A partir de agora, pressione a tecla F1 quantas vezes desejar para receber a quantidade de munição selecionada.
+
+Aproveite:)
