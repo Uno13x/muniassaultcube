@@ -1,7 +1,4 @@
 # muniassaultcube
-hack simples pro jogo assaultcube feito em C++
-
-
 1 Baixe o arquivo e salve-o em seu computador. Abra o código no Visual Studio (ou em outro ambiente de desenvolvimento) e siga estas etapas:
 
 
