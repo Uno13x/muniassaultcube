@@ -2,28 +2,20 @@
 #include <windows.h>
 using namespace std;
 
-
-// Create by unoxys
-
-
-// Variavel da bala
 DWORD_PTR muni = ALTERE_PELA_SUA_OFFSET;
 
-// Ler e ver valor da bala
 int value = 30;
 int recebervalor;
 
 int main(int argc, char const *argv[])
 {
-    // Procurar janela e ver se a janela ta aberta
     HWND window = FindWindowW(NULL, L"AssaultCube"); 
     if (!window) {
         wcout << L"Janela não encontrada" << endl; 
         system("pause");
         exit(0);
     }
-    
-// procurar processos
+
 DWORD processo;
 GetWindowThreadProcessId(window,&processo);
 
